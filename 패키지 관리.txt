@@ -1,0 +1,17 @@
+패키지 버전 관리
+
+파이썬 - 3.8.2 
+pip - 20.0.2
+
+Pandas - 
+Pickle -
+sklearn - 
+NumPy - 수학/과학 연산을 위한 파이썬 패키지
+Matplotlib - 파이썬 그래프 플롯 라이브러리
+PyQt5 - GUI 프로그램
+xlrd/xlwt - 파이썬으로 엑셀 데이터 처리
+Pillow - 파이썬을 이용한 이미지 처리
+
+TensorFlow - 구글 머신러닝 프레임워크
+
+작업 commit develop(head) feature 병합 삭제 pull push-feature 생성
