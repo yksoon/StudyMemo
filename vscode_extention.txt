@@ -1,0 +1,26 @@
+단축키 : 
+ctrl + x : 행 잘라내기 , 블록으로 설정하지 않아도 줄 잘나내기 가능 
+ctrl + c : 행 복사 , 블록으로 설정하지 않아도 줄복사 가능
+ctrl + d : 다음 선택 찾기
+ctrl + shift + l : 같은 단어 전부 찾기
+cntrl + ] 라인 들여쓰기
+
+
+extention
+web관련
+auto rename tag : 태그 자동수정
+css peek : ctrl 누르고 클릭하면 바로 해당 css확인할수 있게 해줌
+color picker : #FFF같은 색표현을 직접 시각적으로 확인할 수 있는 확장
+live server : 저장만하면 바로 웹페이지 변경사항을 로컬에서 확인되도록 보여줌
+
+beautify : 코드 자동정렬
+bracket pair colorizer : 괄호 여러개 있을때 색으로 구분 (미친 개강추)
+code spell checker : 오타 많이 나는 사람 필수
+community material theme : 태마 일단 써봐 ㅋㅋㅋ
+material theme
+material icon theme : 아이콘 태마 
+indent-rainbow : 텝 공백을 색으로 표현 실수 줄이기에 좋음
+jupyter : 주피터 사용가능 해주는 extention
+python extention pack : 파이썬 관련 팩
+markdown preview enhanced : 마크다운 편집하면서 옆에 두면 편집이 어떻게 되는지 확인가능
+
